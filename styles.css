@@ -81,3 +81,12 @@ footer {
   margin: 10px;
   background-color: white;
 }
+
+@media screen and (max-width: 800px) {
+  .set{
+    display:flex;
+    flex-direction:column;
+    align-items: center;
+
+  }
+  }
